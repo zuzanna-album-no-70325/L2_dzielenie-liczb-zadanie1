@@ -1,4 +1,4 @@
-﻿# dzielenie-liczb--zadanie1
+﻿# dzielenie-liczb-zadanie1
 
 Jest to prosta aplikacja okienkowa napisana w języku C# w technologii .NET Framework. Aplikacja umożliwia użytkownikowi wprowadzenie dwóch liczb i obliczenie ich dzielenia. Dodatkowo, obsługuje różne rodzaje błędów, takie jak podanie nieprawidłowej liczby lub próba dzielenia przez zero.
 
